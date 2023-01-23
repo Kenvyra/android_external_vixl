@@ -1,0 +1,5 @@
+{
+    "name": "crdroid",
+    "fetch": "https://github.com/crdroidandroid/android_external_vixl",
+    "revision": "refs/heads/13.0"
+}
